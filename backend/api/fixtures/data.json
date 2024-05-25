@@ -1,0 +1,710 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$Ro1KzsTrPSAlcPIbyHPX6E$luU3fOLdLMwH5qPI2v4kmIuoD4i1j7K3MATG18ODfqM=",
+      "last_login": "2023-05-28T19:05:32.967Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-05-18T16:53:08.985Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$pID0m1lYzRrByRygD5iefh$eUlf/A5yCwdh8tZtlGD7GSuquA0njrKAKTRStaBU4Fg=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Megan",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:18:30.410Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$Vhz0eDWsqtey6PFq8umuzo$hh8YZcSr2DAmfD5OTj6q8nrU1jxJvtoZFKUXvZEkVas=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Adela",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:18:39.823Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$L7s5qyUjl0HTOHr5EMWH8I$NYIaDLrmYJ3jXPanO3plFD5fgnxJg/WV4XkB9P6NAcQ=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Duncan",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:18:53.015Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$TUm5i4IrSQLU98gHFZtCzK$Q4a+ouVdv8ZcwkKQMbHbz0M4cJuqnEhIxKmEXptyuEo=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Cyrilla",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:19:04.775Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$ndm2RK8a69JNPVGVw0L1Rz$YzyVrfsgRviBG3sj6VVMISAVg1td/ilWkuKQ7NfWNkQ=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Keighley",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:19:19.261Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$gnlNUUkJFVjCzjUvL3xOHd$RQPaDqK9xM6HbCxLmGGEP2Btxnk8ZeMEXmh0lwkaYNg=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Joby",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:19:31.149Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$JRZO9KLYCxRBmP2mCDOjiC$KzWqc1wkrIQSEtNHX/uK8jXTrR1ImJVHZZrqf0bVSzM=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Lynne",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:19:41.068Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 9,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$6AiMcslyDceEVmct6JaRA2$vT/ZDekU++fRmCPPdmjSCbQsOL0RZMjxNGFiK/QXzOo=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Lynda",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:19:50.627Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$CYENc0KMleGQkwRcGaC0zP$cAFMzp4Stph6sjH2jo27OSjcPUXBB1SbuuYFgLGIzfI=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Kristin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:19:59.470Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 11,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$2ZcbW512gGDDBkpzcucLk0$jrKUNs+uEdNlLrLcIVZBMN3ar5Or0VljjoXzhF6IZg4=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Auston",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-05-28T19:20:09.600Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 1,
+    "fields": {
+      "name": "Visp",
+      "zip": 3930
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 2,
+    "fields": {
+      "name": "Brig",
+      "zip": 3900
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 3,
+    "fields": {
+      "name": "Zermatt",
+      "zip": 3920
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 4,
+    "fields": {
+      "name": "Sion",
+      "zip": 1950
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 5,
+    "fields": {
+      "name": "Bern",
+      "zip": 3000
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 6,
+    "fields": {
+      "name": "Zürich",
+      "zip": 8000
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 7,
+    "fields": {
+      "name": "Geneva",
+      "zip": 1200
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 8,
+    "fields": {
+      "name": "Lausanne",
+      "zip": 1000
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 9,
+    "fields": {
+      "name": "Basel",
+      "zip": 4000
+    }
+  },
+  {
+    "model": "api.Location",
+    "pk": 10,
+    "fields": {
+      "name": "Lugano",
+      "zip": 6900
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 1,
+    "fields": {
+      "location": 1,
+      "userId": 2,
+      "comment": "This is great!"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 2,
+    "fields": {
+      "location": 1,
+      "userId": 3,
+      "comment": "Guys you should check this out!"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 3,
+    "fields": {
+      "location": 1,
+      "userId": 4,
+      "comment": "I love this place!"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 4,
+    "fields": {
+      "location": 2,
+      "userId": 5,
+      "comment": "👍"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 5,
+    "fields": {
+      "location": 2,
+      "userId": 6,
+      "comment": "?? 😒"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 6,
+    "fields": {
+      "location": 2,
+      "userId": 7,
+      "comment": "Not bad, could be better"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 7,
+    "fields": {
+      "location": 3,
+      "userId": 8,
+      "comment": "I ❤ this place!"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 8,
+    "fields": {
+      "location": 3,
+      "userId": 9,
+      "comment": "I absolutely hated it!"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 9,
+    "fields": {
+      "location": 3,
+      "userId": 10,
+      "comment": "I don't know what to say"
+    }
+  },
+  {
+    "model": "api.LocationComment",
+    "pk": 10,
+    "fields": {
+      "location": 4,
+      "userId": 11,
+      "comment": "This was the best so far!"
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 1,
+    "fields": {
+      "location": 1,
+      "rating": 5,
+      "userId": 2
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 2,
+    "fields": {
+      "location": 1,
+      "rating": 4,
+      "userId": 3
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 3,
+    "fields": {
+      "location": 1,
+      "rating": 3,
+      "userId": 4
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 4,
+    "fields": {
+      "location": 1,
+      "rating": 5,
+      "userId": 5
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 5,
+    "fields": {
+      "location": 1,
+      "rating": 2,
+      "userId": 6
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 6,
+    "fields": {
+      "location": 2,
+      "rating": 4,
+      "userId": 7
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 7,
+    "fields": {
+      "location": 2,
+      "rating": 1,
+      "userId": 8
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 8,
+    "fields": {
+      "location": 2,
+      "rating": 1,
+      "userId": 9
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 9,
+    "fields": {
+      "location": 2,
+      "rating": 5,
+      "userId": 10
+    }
+  },
+  {
+    "model": "api.LocationRating",
+    "pk": 10,
+    "fields": {
+      "location": 2,
+      "rating": 4,
+      "userId": 11
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 1,
+    "fields": {
+      "name": "Esports Tournament 1",
+      "description": "Top teams compete worldwide.",
+      "location": 1,
+      "lan": false,
+      "date": "2024-06-10",
+      "userId": 2,
+      "capacity": 100
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 2,
+    "fields": {
+      "name": "LAN Party 1",
+      "description": "Gaming, food, and fun.",
+      "location": 2,
+      "lan": true,
+      "date": "2024-06-15",
+      "userId": 3,
+      "capacity": 50
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 3,
+    "fields": {
+      "name": "Esports Championship",
+      "description": "Intense battle for championship.",
+      "location": 3,
+      "lan": false,
+      "date": "2024-06-20",
+      "userId": 4,
+      "capacity": 200
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 4,
+    "fields": {
+      "name": "Community LAN Party",
+      "description": "Tournaments, prizes, community gathering.",
+      "location": 4,
+      "lan": true,
+      "date": "2024-06-25",
+      "userId": 5,
+      "capacity": 80
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 5,
+    "fields": {
+      "name": "Esports Showcase",
+      "description": "Cutting-edge technology, thrilling matches.",
+      "location": 5,
+      "lan": false,
+      "date": "2024-07-01",
+      "userId": 6,
+      "capacity": 150
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 6,
+    "fields": {
+      "name": "LAN Party 2",
+      "description": "Compete, socialize, make friends.",
+      "location": 6,
+      "lan": true,
+      "date": "2024-07-05",
+      "userId": 7,
+      "capacity": 60
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 7,
+    "fields": {
+      "name": "Esports Convention",
+      "description": "Panel discussions, cosplay, tournaments.",
+      "location": 7,
+      "lan": false,
+      "date": "2024-07-10",
+      "userId": 8,
+      "capacity": 300
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 8,
+    "fields": {
+      "name": "Community Esports Tournament",
+      "description": "Local community showcases skills.",
+      "location": 8,
+      "lan": false,
+      "date": "2024-07-15",
+      "userId": 9,
+      "capacity": 120
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 9,
+    "fields": {
+      "name": "Esports Charity Event",
+      "description": "Gaming for a cause.",
+      "location": 9,
+      "lan": false,
+      "date": "2024-07-20",
+      "userId": 10,
+      "capacity": 100
+    }
+  },
+  {
+    "model": "api.Event",
+    "pk": 10,
+    "fields": {
+      "name": "LAN Party 3",
+      "description": "Gaming, friends, and prizes.",
+      "location": 9,
+      "lan": true,
+      "date": "2024-07-20",
+      "userId": 11,
+      "capacity": 70
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 1,
+    "fields": {
+      "event": 1,
+      "userId": 2
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 2,
+    "fields": {
+      "event": 1,
+      "userId": 3
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 3,
+    "fields": {
+      "event": 1,
+      "userId": 4
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 4,
+    "fields": {
+      "event": 1,
+      "userId": 5
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 5,
+    "fields": {
+      "event": 1,
+      "userId": 6
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 6,
+    "fields": {
+      "event": 2,
+      "userId": 7
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 7,
+    "fields": {
+      "event": 2,
+      "userId": 8
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 8,
+    "fields": {
+      "event": 2,
+      "userId": 9
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 9,
+    "fields": {
+      "event": 2,
+      "userId": 10
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 10,
+    "fields": {
+      "event": 2,
+      "userId": 11
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 11,
+    "fields": {
+      "event": 3,
+      "userId": 2
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 12,
+    "fields": {
+      "event": 3,
+      "userId": 3
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 13,
+    "fields": {
+      "event": 3,
+      "userId": 4
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 14,
+    "fields": {
+      "event": 3,
+      "userId": 5
+    }
+  },
+  {
+    "model": "api.EventRegistration",
+    "pk": 15,
+    "fields": {
+      "event": 3,
+      "userId": 6
+    }
+  }
+]

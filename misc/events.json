@@ -1,0 +1,276 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "eventName": "Music Event Geneve",
+      "description": "Music Event Geneve",
+      "type_id": 1,
+      "organizer_id": 1,
+      "location_id": 1,
+      "location_details": "street 1, 1234 Geneve, Switzerland",
+      "start": {
+        "dateTime": "2017-05-01T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2017-05-01T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 4.5,
+      "participantsLimit": 100,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 2,
+      "eventName": "Foot Event Zurich",
+      "description": "Very large food convention",
+      "type_id": 3,
+      "organizer_id": 2,
+      "location_id": 2,
+      "location_details": "street 1, 8000 Zurich, Switzerland",
+      "start": {
+        "dateTime": "2023-05-01T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2023-06-01T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 3,
+      "participantsLimit": 200,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 3,
+      "eventName": "Tennis Event Basel",
+      "description": "Very large competition in Basel",
+      "type_id": 2,
+      "organizer_id": 1,
+      "location_id": 3,
+      "location_details": "street 1, 4001 Basel, Switzerland",
+      "start": {
+        "dateTime": "2023-02-01T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2023-03-01T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 4,
+      "participantsLimit": 500,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 4,
+      "eventName": "Big Party Lausanne",
+      "description": "Big Party Lausanne",
+      "type_id": 1,
+      "organizer_id": 1,
+      "location_id": 1,
+      "location_details": "street 1, 1000 Lausanne, Switzerland",
+      "start": {
+        "dateTime": "2023-04-23T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2023-04-23T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 5,
+      "participantsLimit": 1000,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 5,
+      "eventName": "Music Event Bern",
+      "description": "Music Event Bern",
+      "type_id": 1,
+      "organizer_id": 2,
+      "location_id": 5,
+      "location_details": "street 134, 3001 Bern, Switzerland",
+      "start": {
+        "dateTime": "2023-02-12T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2023-02-12T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 4.5,
+      "participantsLimit": 100,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 6,
+      "eventName": "Gaming Event Zurich",
+      "description": "Gaming Event Zurich",
+      "type_id": 5,
+      "organizer_id": 2,
+      "location_id": 2,
+      "location_details": "street 1, 8000 Zurich, Switzerland",
+      "start": {
+        "dateTime": "2017-05-01T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2017-05-01T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 4.5,
+      "participantsLimit": 20,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 7,
+      "eventName": "Fast food convention Zurich",
+      "description": "Very large food convention",
+      "type_id": 3,
+      "organizer_id": 1,
+      "location_id": 2,
+      "location_details": "street 156, 1234 Zurich, Switzerland",
+      "start": {
+        "dateTime": "2023-06-01T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2023-07-01T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 3.5,
+      "participantsLimit": 100,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 8,
+      "eventName": "Race Event Lausanne",
+      "description": "Very large competition in Lausanne",
+      "type_id": 2,
+      "organizer_id": 1,
+      "location_id": 4,
+      "location_details": "street 1, 1000 Lausanne, Switzerland",
+      "start": {
+        "dateTime": "2023-05-01T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2023-05-01T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 4,
+      "participantsLimit": 500,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 9,
+      "eventName": "Jazz Party Bern",
+      "description": "Jazz Party Bern",
+      "type_id": 1,
+      "organizer_id": 2,
+      "location_id": 5,
+      "location_details": "street 134, 3001 Bern, Switzerland",
+      "start": {
+        "dateTime": "2022-04-23T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2022-04-23T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 3.5,
+      "participantsLimit": 5000,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    },
+    {
+      "id": 10,
+      "eventName": "Science-Fiction Event Geneva",
+      "description": "Science-Fiction Event Geneva",
+      "type_id": 5,
+      "organizer_id": 1,
+      "location_id": 1,
+      "location_details": "street 1, 1200 Geneva, Switzerland",
+      "start": {
+        "dateTime": "2023-12-12T09:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "end": {
+        "dateTime": "2023-12-12T17:00:00-07:00",
+        "timeZone": "Europe/Zurich"
+      },
+      "rating": 5,
+      "participantsLimit": 500,
+      "created_at": "2017-05-01T09:00:00-07:00"
+    }
+  ],
+  "organizer": [
+    {
+      "id": 1,
+      "name": "Animoe",
+      "email": "name@events.ch",
+      "phone": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "Event2",
+      "email": "other@events.ch",
+      "phone": "35365423424"
+    }
+  ],
+  "location": [
+    {
+      "id": 1,
+      "name": "Geneve",
+      "zip": "1234"
+    },
+    {
+      "id": 2,
+      "name": "Zurich",
+      "zip": "8000"
+    },
+    {
+      "id": 3,
+      "name": "Basel",
+      "zip": "4001"
+    },
+    {
+      "id": 4,
+      "name": "Lausanne",
+      "zip": "1000"
+    },
+    {
+      "id": 5,
+      "name": "Bern",
+      "zip": "3001"
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "name": "Music"
+    },
+    {
+      "id": 2,
+      "name": "Sport"
+    },
+    {
+      "id": 3,
+      "name": "Food"
+    },
+    {
+      "id": 4,
+      "name": "Party"
+    },
+    {
+      "id": 5,
+      "name": "Other"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "John",
+      "password": "SHA256Hash",
+      "email": "john@email.com",
+      "phone": "123456789"
+    }
+  ]
+}
